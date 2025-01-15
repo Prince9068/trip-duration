@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/dvc-exp/mlruns/0/00a1f7382ddc4098adac916a6b42d17c/artifacts
+end_time: 1736835208250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00a1f7382ddc4098adac916a6b42d17c
+run_name: XGBRegressor
+run_uuid: 00a1f7382ddc4098adac916a6b42d17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736835187704
+status: 3
+tags: []
+user_id: admin

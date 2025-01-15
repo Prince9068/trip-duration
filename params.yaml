@@ -1,0 +1,4 @@
+train_model:
+  seed: 23
+  n_estimators: 55
+  max_depth: 8

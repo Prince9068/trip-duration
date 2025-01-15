@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/dvc-exp/mlruns/0/117e927d7f7044438aa656e6a3abf8e2/artifacts
+end_time: 1736836166529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 117e927d7f7044438aa656e6a3abf8e2
+run_name: XGB Final Model
+run_uuid: 117e927d7f7044438aa656e6a3abf8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736836153346
+status: 3
+tags: []
+user_id: admin
